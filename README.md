@@ -1,5 +1,11 @@
 # pyang
 
+Provide a container based solution (with all the required dependencies) for running [pyang](https://github.com/mbj4668/pyang).  
+
+YANG (RFC 7950) is a data modeling language for NETCONF (RFC 6241), developed by the IETF NETMOD WG.
+
+pyang is a YANG validator, transformator and code generator, written in python. It can be used to validate YANG modules for correctness, to transform YANG modules into other formats, and to generate code from the modules.
+
 ## Build the image
 
 ```sh
